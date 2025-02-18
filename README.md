@@ -28,11 +28,9 @@ I am a proactive problem-solver who thrives in collaborative environments and en
 
   
 
----
 
-### 📫 Contact Me:
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/ayesha-latif-4b2034221/)
-- 💌 **Email:** ayeshalatif55566@gmail.com
+
+
 -
 
 🚀 Always open to collaborations and new opportunities!
