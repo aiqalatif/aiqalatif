@@ -14,12 +14,6 @@
 
 ---
 
-### 🌟 About Me:
-I am Ayesha, a highly motivated **Flutter & Node.js Developer** with over 3 years of experience in building high-quality mobile and web applications. I specialize in cross-platform app development and backend solutions, ensuring seamless user experiences and robust system architecture. My expertise lies in **state management, API integrations, and scalable cloud solutions**. 
-
-
-
-I am a proactive problem-solver who thrives in collaborative environments and enjoys taking on challenging projects. My goal is to create **impactful and innovative digital solutions** that drive business success.
 
 ---
 
