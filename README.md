@@ -19,7 +19,8 @@
 
 ### 📈 GitHub Stats:
 ![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiqalatif&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aiqalatif&theme=dark&hide_border=true)
+
 
   
 
